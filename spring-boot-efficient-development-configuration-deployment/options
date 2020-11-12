@@ -1,0 +1,6 @@
+dependencies=web,actuator&
+applicationName=JustGifItApplication&
+artifactId=just-gif-it&
+description=just-gif-it&
+groupId=abhay.io&
+packageName=abhay.io

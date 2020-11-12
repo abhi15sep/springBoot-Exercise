@@ -1,0 +1,5 @@
+curl https://start.spring.io/starter.zip -o demo.zip --data @options
+
+./mvnw docker:build
+docker run -it -p 80:8080 schultzio/just-gif-it
+docker-machine env
