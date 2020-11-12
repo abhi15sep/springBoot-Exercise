@@ -1,0 +1,1 @@
+https://github.com/wlesniak/effective-oauth2-with-spring-security-and-spring-boot.git
